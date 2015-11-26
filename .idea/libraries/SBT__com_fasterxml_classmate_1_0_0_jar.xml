@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.fasterxml:classmate:1.0.0:jar">
+    <CLASSES>
+      <root url="jar:///usr/local/Cellar/typesafe-activator/1.2.12/libexec/repository/com.fasterxml/classmate/1.0.0/bundles/classmate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
